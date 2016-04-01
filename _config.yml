@@ -1,0 +1,28 @@
+name: Cash4Cuts
+favicon: null
+layout_spectrum: 0.845457591349259
+typography_spectrum: 0.363927751313895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7484000269323587
+  lightness: 0.7129493034444749
+  saturation: 0.4492071398999542
+  rhythmicContrast: 0.33509097481146455
+purpose: []
